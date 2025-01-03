@@ -1,0 +1,15 @@
+/Users/muneebahmedayub/Documents/Compiler Construction/Lab Terminal/Question6/Question6/bin/Debug/net8.0/Question6
+/Users/muneebahmedayub/Documents/Compiler Construction/Lab Terminal/Question6/Question6/bin/Debug/net8.0/Question6.deps.json
+/Users/muneebahmedayub/Documents/Compiler Construction/Lab Terminal/Question6/Question6/bin/Debug/net8.0/Question6.runtimeconfig.json
+/Users/muneebahmedayub/Documents/Compiler Construction/Lab Terminal/Question6/Question6/bin/Debug/net8.0/Question6.dll
+/Users/muneebahmedayub/Documents/Compiler Construction/Lab Terminal/Question6/Question6/bin/Debug/net8.0/Question6.pdb
+/Users/muneebahmedayub/Documents/Compiler Construction/Lab Terminal/Question6/Question6/obj/Debug/net8.0/Question6.GeneratedMSBuildEditorConfig.editorconfig
+/Users/muneebahmedayub/Documents/Compiler Construction/Lab Terminal/Question6/Question6/obj/Debug/net8.0/Question6.AssemblyInfoInputs.cache
+/Users/muneebahmedayub/Documents/Compiler Construction/Lab Terminal/Question6/Question6/obj/Debug/net8.0/Question6.AssemblyInfo.cs
+/Users/muneebahmedayub/Documents/Compiler Construction/Lab Terminal/Question6/Question6/obj/Debug/net8.0/Question6.csproj.CoreCompileInputs.cache
+/Users/muneebahmedayub/Documents/Compiler Construction/Lab Terminal/Question6/Question6/obj/Debug/net8.0/Question6.sourcelink.json
+/Users/muneebahmedayub/Documents/Compiler Construction/Lab Terminal/Question6/Question6/obj/Debug/net8.0/Question6.dll
+/Users/muneebahmedayub/Documents/Compiler Construction/Lab Terminal/Question6/Question6/obj/Debug/net8.0/refint/Question6.dll
+/Users/muneebahmedayub/Documents/Compiler Construction/Lab Terminal/Question6/Question6/obj/Debug/net8.0/Question6.pdb
+/Users/muneebahmedayub/Documents/Compiler Construction/Lab Terminal/Question6/Question6/obj/Debug/net8.0/Question6.genruntimeconfig.cache
+/Users/muneebahmedayub/Documents/Compiler Construction/Lab Terminal/Question6/Question6/obj/Debug/net8.0/ref/Question6.dll
